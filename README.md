@@ -1,4 +1,4 @@
-# ProjetoCurso-JavaScript
+# ProjetoCurso-JavaScript-JOGO-DA-VELHA
 Projeto desenvolvido no curso JavaScript do básico ao avançado do Matheus Battisti, 
 
 
